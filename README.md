@@ -24,27 +24,32 @@ Welcome to DataGem – Your Gateway to Quality ML Datasets! 🌟 Discover a cura
 
 We welcome your contributions to enhance the DataGem repository! Here's how you can get involved:
 
-- ### 📊 **Dataset Submission:**
-1. Fork the repository.
-2. Create a new branch for your dataset: `git checkout -b your-dataset-name`.
-3. Add your dataset files in the appropriate category folder.
-4. Include a detailed dataset description in a Markdown file.
-5. Commit your changes and push to your forked repository.
-6. Open a pull request to our main repository.
 
-- ### 🛠️ **Updating Dataset Information:**
-1. If you notice outdated or incorrect information, fork the repository.
-2. Make necessary updates to the dataset description Markdown file.
-3. Commit your changes and push to your forked repository.
-4. Open a pull request to our main repository.
+- 🌟 **Dataset Submission:**
+  1. Fork the repository.
+  2. Create a new branch for your dataset: `git checkout -b your-dataset-name`.
+  3. Contribute by either:
+    - Adding your dataset files in the appropriate category folder and then including a detailed dataset description in the Contributed DataSets section below, or
+    - Adding a link to an existing source of datasets to the Links to Existing DataSets section below.
+  5. Commit your changes and push to your forked repository.
+  6. Open a pull request to our main repository.
 
-- ### 💎 **Feature Suggestions:**
-1. Have an idea to enhance DataGem? Share it!
-2. Open an issue describing your proposed feature.
-3. Engage in discussions to refine the idea.
-  
+- 📊 **Contributed DataSets:**
+- 🔗 **Links to Existing Datasets:**
+  - [UC Irvine Machine Learning Repo](https://archive.ics.uci.edu/)
 
-- ### 🐞 **Reporting Issues:**
+- 📝 **Updating Dataset Information:**
+  1. If you notice outdated or incorrect information, fork the repository.
+  2. Make necessary updates to the dataset description Markdown file.
+  3. Commit your changes and push to your forked repository.
+  4. Open a pull request to our main repository.
+
+- 💡 **Feature Suggestions:**
+  Have an idea to enhance DataGem? Share it!
+  1. Open an issue describing your proposed feature.
+  2. Engage in discussions to refine the idea.
+
+- 🐞 **Reporting Issues:**
   Found a bug or an issue? Help us improve!
 1. Open an issue, explaining the problem you encountered.
 2. Provide relevant details to help us understand and address it.
