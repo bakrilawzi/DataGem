@@ -7,7 +7,7 @@
 
 Welcome to DataGem – Your Gateway to Quality ML Datasets! 🌟 Discover a curated collection of valuable and reliable machine learning datasets that shine like gemstones in the world of data. Our open-source hub is a one-stop destination for the AI community, offering meticulously selected datasets spanning diverse domains. With engaging features, interactive previews, and a collaborative atmosphere, DataGem invites contributors to unearth and contribute to the most trusted resource for data-driven projects. Join us in refining the art of data curation and exploration, and let your AI creations sparkle with the brilliance of DataGem.
 
-## Features
+## Features 🎉
 
 - ✅ **Curated Collection:** Discover a meticulously curated selection of valuable and reliable machine learning datasets.
 - ✅ **One-Stop Hub:** Your open-source destination for the AI community, offering datasets across diverse domains.
@@ -40,7 +40,7 @@ We welcome your contributions to enhance the DataGem repository! Here's how you 
 3. Commit your changes and push to your forked repository.
 4. Open a pull request to our main repository.
 
-- ### 💎 **Feature Suggestions:**
+- ### 🌺 **Feature Suggestions:**
   Have an idea to enhance DataGem? Share it!
 1. Open an issue describing your proposed feature.
 2. Engage in discussions to refine the idea.
