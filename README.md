@@ -50,7 +50,7 @@ We welcome your contributions to enhance the DataGem repository! Here's how you 
 1. Open an issue, explaining the problem you encountered.
 2. Provide relevant details to help us understand and address it.
 
-- ## 🌐 **Join the Community:**
+## 🌐 **Join the Community:**
   Engage with other contributors and users!
 1. Participate in discussions on GitHub's Discussions page.
 2. Share insights, ask questions, and offer suggestions.
